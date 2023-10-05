@@ -21,10 +21,6 @@ To create a new Snippet from your Shopify admin dashboard:
 
 ## Snippets
 
-**giftship.liquid**
-
-This snippet is critical to the functionality of Giftship's multiple shipping address and bundle features. It also greatly improves the load time of the application.
-
 **giftship-cart-item.liquid**
 
 **giftship-cart-item-properties.liquid**
